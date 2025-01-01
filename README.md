@@ -1,4 +1,4 @@
-# **Automatic Questions Tags using NLP and Machine Learning**
+## **Automatic Questions Tags using NLP and Machine Learning**
 
 This repository contains the implementation of a project focused on processing textual data from platforms like Stack Overflow. It uses natural language processing (NLP) techniques and machine learning models to analyze sentiment polarity and classify question tags effectively.
 
@@ -58,12 +58,9 @@ These models effectively classified tags while addressing challenges such as ove
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/musmankkh/Auto-Questions-Tags.git
    cd your-repository-name
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+   
    ```
 3. Explore Jupyter notebooks or run scripts in the `/src` directory.
 
